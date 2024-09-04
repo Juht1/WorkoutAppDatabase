@@ -1,0 +1,39 @@
+body {
+    background-color: #3d51e9ef;
+  }
+
+.vector {
+    position: fixed;
+    width: 1564px;
+    height: 1325px;
+    top: 0;
+    right: 0px;
+    opacity: 0.8;
+  }
+
+.ellipse1 {
+    position: fixed;
+    width: 568px;
+    height: 568px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.6;
+  }
+
+.ellipse2 {
+    position: fixed;
+    width: 498px;
+    height: 498px;
+    bottom: -50px;
+    left: -50px;
+    opacity: 1;
+  }
+
+.ellipse3 {
+    position: fixed;
+    width: 498px;
+    height: 498px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 1;
+  }
